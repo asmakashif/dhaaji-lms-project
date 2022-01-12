@@ -1,0 +1,73 @@
+{
+   "cf684ddf95082b32fbeca78e5c9c663f":{
+      "id":"prd02",
+      "name":"Whole Chicken",
+      "price":650,
+      "qty":1,
+      "numberInStock":"10",
+      "str_stkIn_id":"5",
+      "options":{
+         "product_type":"3",
+         "type_name":"Biryani Cut",
+         "product_weight":"4",
+         "weight_name":"600",
+         "image":"11.jpg"
+      },
+      "rowid":"cf684ddf95082b32fbeca78e5c9c663f",
+      "subtotal":650
+   },
+   "c0e78904d919a4a3e155362b83f1b6b7":{
+      "id":"prd03",
+      "name":"Chicken leg Whole",
+      "price":300,
+      "qty":1,
+      "numberInStock":"10",
+      "str_stkIn_id":"4",
+      "options":{
+         "product_type":"4",
+         "type_name":"Curry Cut",
+         "product_weight":"5",
+         "weight_name":"250",
+         "image":"Chicken_Leg_Whole_with_Thigh.jpg"
+      },
+      "rowid":"c0e78904d919a4a3e155362b83f1b6b7",
+      "subtotal":300
+   }
+}
+
+{
+   "e4cc0134db438e3fd6d32e82eb40564f":{
+      "id":"prd01",
+      "name":"Chicken Thigh",
+      "price":300,
+      "qty":1,
+      "numberInStock":"12",
+      "str_stkIn_id":"3",
+      "options":{
+         "product_type":"1",
+         "type_name":"Curry Cut",
+         "product_weight":"1",
+         "weight_name":"250",
+         "image":"chciken_boneless.jpg"
+      },
+      "rowid":"e4cc0134db438e3fd6d32e82eb40564f",
+      "subtotal":300
+   },
+   "e4b77db6819336d67fdff60ec52057a5":{
+      "id":"prd01",
+      "name":"Chicken Thigh",
+      "price":650,
+      "qty":1,
+      "numberInStock":"12",
+      "str_stkIn_id":"3",
+      "options":{
+         "product_type":"2",
+         "type_name":"Mince Cut",
+         "product_weight":"3",
+         "weight_name":"500",
+         "image":"chciken_boneless.jpg"
+      },
+      "rowid":"e4b77db6819336d67fdff60ec52057a5",
+      "subtotal":650
+   }
+}
